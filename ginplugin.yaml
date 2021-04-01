@@ -1,0 +1,4 @@
+name: myheader
+import: github.com/XIAHUALOU/GinPlugins
+package: GinPlugins
+summary: '暂时没有'
